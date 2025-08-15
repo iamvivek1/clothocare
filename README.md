@@ -17,7 +17,7 @@ A modern, responsive website for ClothoCare, a premium laundry service company. 
 
 ![ClothoCare Website Screenshot](screenshot.png)
 
-**[View Live Demo](https://iamvivek1.github.io/clothocare/)**
+**[View Live Demo](https://iamvivek1.github.io/clothocare/home.html)**
 
 ## 📋 Services
 
