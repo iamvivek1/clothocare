@@ -30,7 +30,7 @@ A modern, responsive website for ClothoCare, a premium laundry service company. 
 
 ## 🚀 Live Demo
 
-![ClothoCare Website Screenshot](screenshot.png)
+![ClothoCare Website Screenshot](https://raw.githubusercontent.com/iamvivek1/clothocare/main/screenshot.png)
 
 **[🌐 View Live Demo](https://iamvivek1.github.io/clothocare/home.html)**
 
@@ -42,19 +42,46 @@ A modern, responsive website for ClothoCare, a premium laundry service company. 
 <summary>🖼️ View Complete Screenshot Gallery</summary>
 
 #### Main Pages
-| Home Page | Services Page | About Page |
-|-----------|---------------|------------|
-| ![Home](screenshot/Screenshot%20(135).png) | ![Services](screenshot/Screenshot%20(136).png) | ![About](screenshot/Screenshot%20(137).png) |
+<table>
+<tr>
+<td align="center"><strong>Home Page</strong></td>
+<td align="center"><strong>Services Page</strong></td>
+<td align="center"><strong>About Page</strong></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/iamvivek1/clothocare/main/screenshot/Screenshot%20(135).png" width="300" alt="Home Page"/></td>
+<td><img src="https://raw.githubusercontent.com/iamvivek1/clothocare/main/screenshot/Screenshot%20(136).png" width="300" alt="Services Page"/></td>
+<td><img src="https://raw.githubusercontent.com/iamvivek1/clothocare/main/screenshot/Screenshot%20(137).png" width="300" alt="About Page"/></td>
+</tr>
+</table>
 
 #### Additional Pages
-| Contact Page | Blog Page | RTL Support |
-|--------------|-----------|-------------|
-| ![Contact](screenshot/Screenshot%20(138).png) | ![Blog](screenshot/Screenshot%20(139).png) | ![RTL](screenshot/Screenshot%20(140).png) |
+<table>
+<tr>
+<td align="center"><strong>Contact Page</strong></td>
+<td align="center"><strong>Blog Page</strong></td>
+<td align="center"><strong>RTL Support</strong></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/iamvivek1/clothocare/main/screenshot/Screenshot%20(138).png" width="300" alt="Contact Page"/></td>
+<td><img src="https://raw.githubusercontent.com/iamvivek1/clothocare/main/screenshot/Screenshot%20(139).png" width="300" alt="Blog Page"/></td>
+<td><img src="https://raw.githubusercontent.com/iamvivek1/clothocare/main/screenshot/Screenshot%20(140).png" width="300" alt="RTL Support"/></td>
+</tr>
+</table>
 
 #### Blog System & Features
-| Blog Post Page | Author Profile | Mobile Responsive |
-|----------------|----------------|-------------------|
-| ![Blog Post](screenshot/Screenshot%20(141).png) | ![Author](screenshot/Screenshot%20(142).png) | ![Mobile](screenshot.png) |
+<table>
+<tr>
+<td align="center"><strong>Blog Post Page</strong></td>
+<td align="center"><strong>Author Profile</strong></td>
+<td align="center"><strong>Mobile Responsive</strong></td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/iamvivek1/clothocare/main/screenshot/Screenshot%20(141).png" width="300" alt="Blog Post Page"/></td>
+<td><img src="https://raw.githubusercontent.com/iamvivek1/clothocare/main/screenshot/Screenshot%20(142).png" width="300" alt="Author Profile"/></td>
+<td><img src="https://raw.githubusercontent.com/iamvivek1/clothocare/main/screenshot.png" width="300" alt="Mobile Responsive"/></td>
+</tr>
+</table>
 
 > 📱 **Fully Responsive**: All pages are optimized for desktop, tablet, and mobile devices
 > 
